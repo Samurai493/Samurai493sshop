@@ -1,0 +1,30 @@
+h1{
+    text-align: center;
+    color: skyblue;
+}
+
+a{
+    
+    border-width:medium;
+    border-color:gold;
+    text-decoration-color: black;
+    text-decoration-line: none;
+    
+}
+
+.container a:hover{
+    border-color:black;
+}
+.Content img{
+    border-color:gold;
+}
+.Content img:hover{
+    border-color:black;
+}
+h6{
+    color:white;
+    font-size: 2px;
+}
+nav{
+    text-align: center;
+}
